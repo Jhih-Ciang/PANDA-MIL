@@ -20,7 +20,7 @@ We hope the codebase is beneficial to you. If this repo works positively for you
 @inproceedings{wu2023Contrastive,
   author    = {Jhih-Ciang Wu, Ding-Jie Chen and Chiou-Shann Fuh},
   title     = {Contrastive Feature Decoupling for Weakly-supervised Disease Detection},
-  booktitle = {MICCAL},
+  booktitle = {MICCAI},
   year      = {2023},
 }
 ```
