@@ -10,7 +10,7 @@ The PANDA-MIL can be found in this [link](https://drive.google.com/drive/folders
 
 [raw data](https://drive.google.com/file/d/1Rlc4Mydcd0nEi_icw2AJG_nJqIVQ55Ku/view?usp=sharing)
 
-[extracted i3d features](https://drive.google.com/drive/folders/1TWmtx7puXsXvFLmvqweq7n8H2S6_yks5?usp=sharing)
+[features extracted by i3d](https://drive.google.com/drive/folders/1TWmtx7puXsXvFLmvqweq7n8H2S6_yks5?usp=sharing)
 
 
 
