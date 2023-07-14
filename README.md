@@ -1,4 +1,4 @@
-# PANDA-MIL
+# [MICCAI'23] PANDA-MIL
 
 ## Introduction
 
